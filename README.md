@@ -1,7 +1,7 @@
 # I_love_GithubCoin
 Want GithubCoin for free ? 
 
-Githubcoin is a Cryptocurrency using ETH blockchain for every github user. 
+Githubcoin is a Cryptocurrency using [ETH blockchain technology](https://github.com/hayooucom/go-ethereum) for every github user. 
 
 You can get 100 ~ 100,000 GithubCoin for free ,depending on your working in github.
 
