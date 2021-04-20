@@ -1,14 +1,16 @@
 # I_love_GithubCoin
 Want GithubCoin for free ? 
 
-Githubcoin is for every github user. 
+Githubcoin is a Cryptocurrency using ETH blockchain for every github user. 
 
-You can get 100 ~ 100,000 GithubCoin for free ,depense your working in github.
+You can get 100 ~ 100,000 GithubCoin for free ,depending on your working in github.
 
 
 just star and fork this repo ,download wallet(below) and visit:  
 
 http://hayoou.com/gtc/get_githubcoin.php
+
+Then you can receive your GithubCoin(GTC) .Have fun !!
 
 
 GithubCoin Android wallet (open source) :
@@ -19,10 +21,25 @@ https://github.com/hayooucom/githubcoin-android/releases/tag/1.1
 
 [GithubCoin-wallet-安卓钱包-1.1.apk](http://hayoou.com/yafc)
 
-algorithm :
-GTC = 100 * ( (your public repos  watch*5 + star *3 + fork *10) +  (your followers score(star/followers/...) ) \* 3 + (your followers count)*10 )
 
-About GithubCoin:
+algorithm :
+
+your public repos score = public repos: watch_sum *5 + star_sum *3 + fork_sum *10 
+
+your followers score = his public repos count + followers count * 6
+
+your activity score = your public repos count + followers count * 6 + (your valid commit count) /5
+
+your GTC = 100 * ( (your public repos score) +  (your followers score) + (your activity score))
+
+We will store the last time you get GTC. and total GTC received.
+
+Each time caculate will minus total received of your account
+
+You may need wait 8Hr to recalculate again .
+
+
+#About GithubCoin:
 ## Hello World Github Coin  !
 
 Thanks github users and many programer hard working and wonderful ideas.And share they code with everyone ,sometimes didn't expect to get much in return. After years of they contributions we have this such great world right now. Such as Linus Benedict , share his software Linux operasystem over the world.
