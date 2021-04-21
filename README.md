@@ -30,7 +30,7 @@ your followers score = his public repos count + followers count * 6
 
 your activity score = your public repos count + followers count * 6 + (your valid commit count) /5
 
-your GTC =  ( (your public repos score) +  (your followers score) \*0.01 + (your activity score))
+your GTC =  ( (your public repos score) +  (your followers score) \*0.01 + (your activity score))\*10
 
 We will store the last time you get GTC. and total GTC received.
 
