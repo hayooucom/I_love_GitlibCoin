@@ -22,6 +22,10 @@ https://github.com/hayooucom/githubcoin-android/releases/tag/1.1
 [GithubCoin-wallet-安卓钱包-1.1.apk](http://hayoou.com/yafc)
 
 
+The evalue code is in :
+
+https://github.com/hayooucom/githubcoin-evalue
+
 algorithm :
 
 your public repos score = public repos: watch_sum *5 + star_sum *3 + fork_sum *10 
