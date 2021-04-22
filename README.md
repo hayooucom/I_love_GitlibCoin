@@ -44,9 +44,15 @@ Each time caculate will minus total received of your account
 
 You may need wait 8Hr to recalculate again .
 
-contact us : hayoou_com@126.com
+contact us : 
+
+Twitter:
 
 https://twitter.com/hayoou_offical
+
+Discord:
+
+https://discord.gg/qcxjgMmb2X
 
 #About GithubCoin:
 ## Hello World Github Coin  !
