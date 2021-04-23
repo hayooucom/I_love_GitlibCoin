@@ -1,30 +1,30 @@
-# I_love_GithatCoin
-Want GithubCoin for free ? 
+# I_love_GitlibCoin
+Want GitlibCoin for free ? 
 
-Githubcoin is a Cryptocurrency using [ETH blockchain technology](https://github.com/hayooucom/go-ethereum) for every github user. 
+GitlibCoin is a Cryptocurrency using [ETH blockchain technology](https://github.com/hayooucom/go-ethereum) for every github user. 
 
-You can get 100 ~ 100,000 GithatCoin for free ,depending on your working in github.
+You can get 100 ~ 100,000 GitlibCoin for free ,depending on your working in github.
 
 
 just star and fork this repo ,download wallet(below) and visit:  
 
 http://hayoou.com/gtc
 
-Then you can receive your GithatCoin(GTC) .Have fun !!
+Then you can receive your GitlibCoin(GTC) .Have fun !!
 
 
-GithatCoin Android wallet (open source) :
+GitlibCoin Android wallet (open source) :
 
 安卓钱包下载：
 
-https://github.com/hayooucom/GithatCoin-android/releases/tag/1.1
+https://github.com/hayooucom/GitlibCoin-android/releases/tag/1.1
 
-[GithatCoin-wallet-安卓钱包-1.1.apk](http://hayoou.com/yafc)
+[GitlibCoin-wallet-安卓钱包-1.1.apk](http://hayoou.com/yafc)
 
 
 The evalue code is in :
 
-https://github.com/hayooucom/githubcoin-evalue
+https://github.com/hayooucom/GitlibCoin-evalue
 
 algorithm :
 
@@ -54,18 +54,18 @@ Discord:
 
 https://discord.gg/qcxjgMmb2X
 
-#About GithatCoin:
-## Hello World GithatCoin  !
+#About GitlibCoin:
+## Hello World GitlibCoin  !
 
 Thanks github users and many programer hard working and wonderful ideas.And share they code with everyone ,sometimes didn't expect to get much in return. After years of they contributions we have this such great world right now. Such as Linus Benedict , share his software Linux operasystem over the world.
 
 These spirte should last forever.we need let them get rewarded.And also exchange the value of technology.
 
-So we create this product to these happen: more contribute to this world , more GithubCoin GTC reward. Let everything go in the right direction.We may reward through they activity and star /fork data in they github project page later. Users can pay Githubcoin for searching tech help or get usefull data.
+So we create this product to these happen: more contribute to this world , more GitlibCoin GTC reward. Let everything go in the right direction.We may reward through they activity and star /fork data in they github project page later. Users can pay GitlibCoin for searching tech help or get usefull data.
 
 Now everyone in Github can miner githat coin . using latest ETH tech V1.10.2 (2021.4.19)
 
-Get 1000~10,000 GithatCoin after check your github account ownership：
+Get 1000~10,000 GitlibCoin after check your github account ownership：
 
 http://hayoou.com/gtc
 
@@ -75,7 +75,7 @@ http://f.hayoou.com/blogs/entry/GithubCoin-published-for-ervery-github-users-tha
 
 Open source：
 
-https://gitee.com/hayoou/githubcoin
+https://gitee.com/hayoou/GitlibCoin
  
 Now everyone in Github can miner github coin . 
 using latest ETH tech V1.10.2 (2021.4.19)
@@ -86,13 +86,13 @@ PC miner Github币电脑挖矿软件 :
 
 Miner download ，挖矿软件下载 免费开挖:
 
-https://github.com/hayooucom/githubcoin/releases/tag/1.10.2
+https://github.com/hayooucom/GitlibCoin/releases/tag/1.10.2
 
 miner list 矿机列表：
 
 http://gtb.hayoou.com/miner.php
 
-[Githat coin contract deploy 公链 合约部署流程.pdf](http://hayoou.com/yaf8)
+[Gitlib coin contract deploy 公链 合约部署流程.pdf](http://hayoou.com/yaf8)
 
 
 We removed the difficulty bomb in etheum,can miner for ever!
@@ -101,16 +101,16 @@ Android wallet (open source) :
 
 安卓钱包下载：
 
-https://github.com/hayooucom/githubcoin-android/releases/tag/1.1
+https://github.com/hayooucom/GitlibCoin-android/releases/tag/1.1
 
-[GithatCoin-wallet-安卓钱包-1.1.apk](http://hayoou.com/yafc)
+[GitlibCoin-wallet-安卓钱包-1.1.apk](http://hayoou.com/yafc)
 
 <img src="https://boxmy.hayoou.com/filecache/f2a7be5539c3483caa1126d869e33f08" alt="drawing" width="240"/>
 
 Welcome to use !
 How to use move PC miner wallet to phone  :
 
-Copy PCminerDIR/data/11/keystore/xxxx file to phone SDcard/githubcoin/xxxx.json
+Copy PCminerDIR/data/11/keystore/xxxx file to phone SDcard/GithubCoin/xxxx.json
 
 Remember rename xxxx to xxxx.json (require)
 
