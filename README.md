@@ -22,11 +22,8 @@ https://github.com/hayooucom/GitlibCoin-android/releases/tag/1.1
 [GitlibCoin-wallet-安卓钱包-1.1.apk](http://hayoou.com/yafc)
 
 
-The evalue code is in :
 
-https://github.com/hayooucom/GitlibCoin-evalue
-
-algorithm :
+Algorithm :
 
 your public repos score = public repos: watch_sum *5 + star_sum *3 + fork_sum *10 
 
@@ -36,13 +33,23 @@ your followers score = his public repos count + followers count * 6
 
 your activity score = your public repos count + followers count * 6 
 
-your GTC =  100 * ( (your public repos score) +  (your followers score) \*0.01 + (your activity score))
+your GTC =  30 * ( (your public repos score) +  (your followers score) \*0.01 + (your activity score))
 
 We will store the last time you get GTC. and total GTC received.
 
 Each time caculate will minus total received of your account
 
 You may need wait 8Hr to recalculate again .
+
+
+The evalue code is in :
+
+https://github.com/hayooucom/GitlibCoin-evalue
+
+
+PC miner is :
+
+https://github.com/hayooucom/GitlibCoin
 
 contact us : 
 
@@ -53,6 +60,7 @@ https://twitter.com/hayoou_offical
 Discord:
 
 https://discord.gg/qcxjgMmb2X
+
 
 #About GitlibCoin:
 ## Hello World GitlibCoin  !
