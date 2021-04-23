@@ -100,6 +100,11 @@ miner list 矿机列表：
 
 http://gtb.hayoou.com/miner.php
 
+Gitlib Coin BlockChain EXPLORER is online: 
+
+http://gtc2.hayoou.com:8000/
+ 
+
 [Gitlib coin contract deploy 公链 合约部署流程.pdf](http://hayoou.com/yaf8)
 
 
