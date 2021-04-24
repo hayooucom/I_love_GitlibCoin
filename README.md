@@ -29,11 +29,13 @@ your public repos score = public repos: watch_sum *5 + star_sum *3 + fork_sum *1
 
 * fork others repo the forked_count not included
 
-your followers score = his public repos count + followers count * 6
+your followers score = sum of( they public repos score + they followers score)
 
-your activity score = your public repos count + followers count * 6 
+your activity score = your pull request(commit PULL_REQUEST, REPOSITORY) score + followers count * 6 
 
-your GTC =  30 * ( (your public repos score) +  (your followers score) \*0.01 + (your activity score))
+your total_score =  ( (your public repos score) +  (your followers score) + (your activity score))
+
+GitlibCoin you can get = (1 - pow(0.96,0.002 * total_score))*1000000 ;
 
 We will store the last time you get GTC. and total GTC received.
 
@@ -45,6 +47,10 @@ You may need wait 8Hr to recalculate again .
 The evalue code is in :
 
 https://github.com/hayooucom/GitlibCoin-evalue
+
+main Algorithm:
+
+https://github.com/hayooucom/GitlibCoin-evalue/blob/master/fetch/get_user_score.php
 
 
 PC miner is :
