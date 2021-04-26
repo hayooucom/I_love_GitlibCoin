@@ -37,7 +37,7 @@ your total_score =  ( (your public repos score) +  (your followers score) + (you
 
 GitlibCoin you can get = (1 - pow(0.96,0.002 * total_score))*1000000 ;
 
-We will store the last time you get GTC. and total GTC received.
+We will store the last time GTC you get. and total GTC received.
 
 Each time caculate will minus total received of your account
 
