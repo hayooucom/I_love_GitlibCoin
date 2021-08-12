@@ -1,9 +1,9 @@
 # I_love_GitlibCoin
 Want GitlibCoin for free ? 
 
-GitlibCoin is a Cryptocurrency using [ETH blockchain technology](https://github.com/hayooucom/go-ethereum) for every github user. 
+GitlibCoin is a Cryptocurrency using [ETH blockchain technology](https://gitee.com/hayooucom/go-ethereum) for every gitee user. 
 
-You can get 100 ~ 1,000,000 GitlibCoin for free ,depending on your working in github.
+You can get 100 ~ 1,000,000 GitlibCoin for free ,depending on your working in gitee.
 
 
 just star and fork this repo ,download wallet(below) and visit:  
@@ -17,7 +17,7 @@ GitlibCoin Android wallet (open source) :
 
 安卓钱包下载：
 
-https://github.com/hayooucom/GitlibCoin-android/releases/tag/1.1
+https://gitee.com/hayooucom/GitlibCoin-android/releases/tag/1.1
 
 [GitlibCoin-wallet-安卓钱包-1.1.apk](http://hayoou.com/yafc)
 
@@ -46,16 +46,16 @@ You may need wait 8Hr to recalculate again .
 
 The evalue code is in :
 
-https://github.com/hayooucom/GitlibCoin-evalue
+https://gitee.com/hayooucom/GitlibCoin-evalue
 
 main Algorithm:
 
-https://github.com/hayooucom/GitlibCoin-evalue/blob/master/fetch/get_user_score.php
+https://gitee.com/hayooucom/GitlibCoin-evalue/blob/master/fetch/get_user_score.php
 
 
 PC miner is :
 
-https://github.com/hayooucom/GitlibCoin
+https://gitee.com/hayooucom/GitlibCoin
 
 contact us : 
 
@@ -71,36 +71,36 @@ https://discord.gg/qcxjgMmb2X
 #About GitlibCoin:
 ## Hello World GitlibCoin  !
 
-Thanks github users and many programer hard working and wonderful ideas.And share they code with everyone ,sometimes didn't expect to get much in return. After years of they contributions we have this such great world right now. Such as Linus Benedict , share his software Linux operasystem over the world.
+Thanks gitee users and many programer hard working and wonderful ideas.And share they code with everyone ,sometimes didn't expect to get much in return. After years of they contributions we have this such great world right now. Such as Linus Benedict , share his software Linux operasystem over the world.
 
 These spirte should last forever.we need let them get rewarded.And also exchange the value of technology.
 
-So we create this product to these happen: more contribute to this world , more GitlibCoin GTC reward. Let everything go in the right direction.We may reward through they activity and star /fork data in they github project page later. Users can pay GitlibCoin for searching tech help or get usefull data.
+So we create this product to these happen: more contribute to this world , more GitlibCoin GTC reward. Let everything go in the right direction.We may reward through they activity and star /fork data in they gitee project page later. Users can pay GitlibCoin for searching tech help or get usefull data.
 
-Now everyone in Github can miner githat coin . using latest ETH tech V1.10.2 (2021.4.19)
+Now everyone in gitee can miner githat coin . using latest ETH tech V1.10.2 (2021.4.19)
 
-Get 1000~10,000 GitlibCoin after check your github account ownership：
+Get 1000~10,000 GitlibCoin after check your gitee account ownership：
 
 http://hayoou.com/gtc
 
 Offical page:
 
-http://f.hayoou.com/blogs/entry/GithubCoin-published-for-ervery-github-users-thanks-they-ideas-and-code
+http://f.hayoou.com/blogs/entry/giteeCoin-published-for-ervery-gitee-users-thanks-they-ideas-and-code
 
 Open source：
 
 https://gitee.com/hayoou/GitlibCoin
  
-Now everyone in Github can miner github coin . 
+Now everyone in gitee can miner gitee coin . 
 using latest ETH tech V1.10.2 (2021.4.19)
 
-PC miner Github币电脑挖矿软件 :
+PC miner gitee币电脑挖矿软件 :
 
 ![img](https://boxmy.hayoou.com/filecache/14bcc65fb35954439ae49eca241ff794)
 
 Miner download ，挖矿软件下载 免费开挖:
 
-https://github.com/hayooucom/GitlibCoin/releases/tag/1.10.2
+https://gitee.com/hayooucom/GitlibCoin/releases/tag/1.10.2
 
 miner list 矿机列表：
 
@@ -120,7 +120,7 @@ Android wallet (open source) :
 
 安卓钱包下载：
 
-https://github.com/hayooucom/GitlibCoin-android/releases/tag/1.1
+https://gitee.com/hayooucom/GitlibCoin-android/releases/tag/1.1
 
 [GitlibCoin-wallet-安卓钱包-1.1.apk](http://hayoou.com/yafc)
 
@@ -129,7 +129,7 @@ https://github.com/hayooucom/GitlibCoin-android/releases/tag/1.1
 Welcome to use !
 How to use move PC miner wallet to phone  :
 
-Copy PCminerDIR/data/11/keystore/xxxx file to phone SDcard/GithubCoin/xxxx.json
+Copy PCminerDIR/data/11/keystore/xxxx file to phone SDcard/giteeCoin/xxxx.json
 
 Remember rename xxxx to xxxx.json (require)
 
@@ -139,7 +139,7 @@ more info:
 
 chainId: 156893586
 
-alloc: for send github user prize
+alloc: for send gitee user prize
 
 istanbulBlock:0
 
